@@ -1,6 +1,6 @@
-# E-commerce Collection Page
+# Seventh Triangle Assesment Page
 
-This project is a simple e-commerce collection page that fetches product data from an API and displays it in a user-friendly interface. The page includes sorting functionality and a loading indicator.
+This project is a simple page that fetches product data from an API and displays it in a user-friendly interface. The page includes sorting functionality and a loading indicator.
 
 ## Features
 
